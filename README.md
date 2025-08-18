@@ -1,8 +1,6 @@
 # 👋 Merhaba, Ben Çağan ÇEKENER  
 
-<p align="center">
-  <img src="ChatGPT Image 18 Ağu 2025 15_09_33.png" alt="Coder Illustration" width="600"/>
-</p>
+
 
 Bilgisayar programcısı ve yazılım geliştiricisiyim. Kod yazmayı, öğrenmeyi ve yeni teknolojiler keşfetmeyi seviyorum.  
 Bunun yanında müzikle ilgileniyor ve bateri çalıyorum. ## 🎵🥁 
