@@ -28,7 +28,7 @@ Bunun yanında müzikle ilgileniyor ve bateri çalıyorum. ## 🎵🥁
   - Stream API  
   - Java Testing & JUnit  
   - Spring Security  
-  - SOLID Prensipleri  
+  - SOLID Principles  
   - Agile Methodology  
   - GPT  
 
