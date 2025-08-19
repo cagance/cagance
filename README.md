@@ -17,7 +17,8 @@ Bunun yanında müzikle ilgileniyor ve bateri çalıyorum. ## 🎵🥁
 ## 💼 Deneyim & Eğitim
 - **Univera Center** – Yazılım Geliştirici (Staj)  
 - **Buca Belediyesi** – Yazılım Geliştirici (Staj)  
-- **Patika.dev** – Backend Yazılım Kursu (Sertifikalı)  
+- **Patika.dev** – Backend Yazılım Kursu (Sertifikalı)
+- **HAVELSAN(DEFTR TEKNOLOJİ) - Yazılım geliştirici (Tam zamanlı)
 
 ---
 
