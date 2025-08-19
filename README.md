@@ -15,10 +15,22 @@ Bunun yanında müzikle ilgileniyor ve bateri çalıyorum. ## 🎵🥁
 ---
 
 ## 💼 Deneyim & Eğitim
+- **HAVELSAN (Deftr Teknoloji)** – Yazılım Geliştirici (Tam Zamanlı)  
 - **Univera Center** – Yazılım Geliştirici (Staj)  
 - **Buca Belediyesi** – Yazılım Geliştirici (Staj)  
-- **Patika.dev** – Backend Yazılım Kursu (Sertifikalı)
-- **HAVELSAN(DEFTR TEKNOLOJİ) - Yazılım geliştirici (Tam zamanlı)
+- **Patika.dev** – Backend Yazılım Kursu (Sertifikalı)  
+  - Java & Spring Boot  
+  - JPA – ORM – Hibernate  
+  - Rest API  
+  - SQL  
+  - Git  
+  - OOP  
+  - Stream API  
+  - Java Testing & JUnit  
+  - Spring Security  
+  - SOLID Prensipleri  
+  - Agile Methodology  
+  - GPT  
 
 ---
 
